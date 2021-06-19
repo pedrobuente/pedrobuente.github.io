@@ -1,0 +1,14 @@
+
+h1 {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 60px;
+}
+h2,h3 {
+  font-family: Georgia, 'Times New Roman', Times, serif;
+}
+p, ol {
+  font-family: cursive;
+}
+body{
+  background-color:navajowhite;
+}
