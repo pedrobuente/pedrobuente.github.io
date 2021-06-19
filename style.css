@@ -1,14 +1,46 @@
 
 h1 {
-  font-family: Arial, Helvetica, sans-serif;
-  font-size: 60px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 60px;
+  }
+  h2,h3 {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+  }
+  p, ol {
+    font-family: cursive;
+  }
+  body{
+    background-color:navajowhite;
+  }
+  #link{
+      float: left;
+      padding: 10px;
+      background-color: indigo;
+  }
+  .imgresumo {
+      height: 420px;
+  }
+
+  .resumo{
+      position: absolute;
+      height: 320px;
+      padding-top: 100px;
+      width:1810px;
+      margin-left: 320px;
+      padding-left: 20px;
+  }
+  
+  .content{
+      padding-left: 20px;
+  }    
+  
+  h1{
+      text-align: center;
+  }
+
+div{
+    border: 2px solid green;
 }
-h2,h3 {
-  font-family: Georgia, 'Times New Roman', Times, serif;
-}
-p, ol {
-  font-family: cursive;
-}
-body{
-  background-color:navajowhite;
-}
+  
+
+  
